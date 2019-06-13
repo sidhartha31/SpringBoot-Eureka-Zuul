@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ZuulServer
+Implementation-Version: 1.0
+Built-By: Sidharth
+Implementation-Vendor-Id: com.sidharth.zuul
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ZuulServer
+Created-By: Maven Integration for Eclipse
+
